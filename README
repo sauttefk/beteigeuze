@@ -1,6 +1,6 @@
 Technical Data:
 * Atmel AT90CAN128
-* Octogonal shape 53mm fits into most outlet sockets (Schalterdose)
+* 2-layer, octogonal shaped 53mm PCB; fits into most outlet sockets (Schalterdose)
 * 10Mbit/s Ethernet utilising MicroChip ENC28J60
 * 42x I/O on two 20-pin 2mm headers, one 10-pin header and two 3-pin headers
 * CAN-Bus
